@@ -13,4 +13,5 @@ A modern fintech landing page built with React, Vite, and Tailwind CSS.
 - Clean component structure
 
 ## Preview
-(Add screenshot here)
+<img width="1253" height="868" alt="image" src="https://github.com/user-attachments/assets/121ca5ba-db18-49f7-b667-89247eb3fecf" />
+
